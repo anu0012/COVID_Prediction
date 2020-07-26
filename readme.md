@@ -6,3 +6,7 @@ This repository contains all the data and code for the submission.
 
 - Run `jupyter notebook` in the terminal
 - Open `model.ipynb` from the home page
+
+### Result
+
+Result is in the `result.csv` file.
