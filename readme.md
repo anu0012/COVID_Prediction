@@ -16,7 +16,7 @@ OR
 
 Result is in the `result.csv` file. It is expected that the COVID cases will rise upto 5.6 Million till 15 Aug.
 
-![](result_image.png?raw=true)
+<img src="result_image.png">
 
 ### Presentation
 
