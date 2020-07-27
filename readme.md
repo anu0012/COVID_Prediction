@@ -4,8 +4,13 @@ This repository contains all the data and code for the submission.
 
 ### How to run
 
+- Run `pip install -r requirements.txt` to install all dependencies.
 - Run `jupyter notebook` in the terminal
 - Open `model.ipynb` from the home page
+
+OR
+
+- You can run python file also using `python model_python_file.py`
 
 ### Result
 
