@@ -14,4 +14,14 @@ OR
 
 ### Result
 
-Result is in the `result.csv` file.
+Result is in the `result.csv` file. It is expected that the COVID cases will rise upto 5.6 Million till 15 Aug.
+
+![](result_image.png?raw=true)
+
+### Presentation
+
+[Link](https://prezi.com/view/sD7K0nwSH4Fui97DZJ3S/)
+
+### Video
+
+[Link](https://youtu.be/yIs7KpJMdP0)
